@@ -1,0 +1,14 @@
+{
+    "containerResultPath":  "",
+    "launchConfigName":  "Sales - Cancel Reserve",
+    "securePassword":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000eab19b860efb8344b6c79ed9b4d0f2cc00000000020000000000106600000001000020000000686804cc723f3b91e19a9d0f91e62ba517a26ba5f751ec5af428820597f33e82000000000e800000000200002000000098831ed100cfbfa00a6c93c329f03c7882875553794ada3a08395833995fa55720000000c5683708c4eb1d74c781fa46186702fe9a6c6255e3212c0489037f6cca9b5646400000005472d3018bf0a594b8198d9d987ca45d610550974421300aa93ed5089597622f3000c5c82a9ad384e191e7dc55b5d923f21c66414ee905c4886012a44facee34",
+    "userName":  "lam-van-tri\\hp-user",
+    "companyName":  "",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  ""
+}

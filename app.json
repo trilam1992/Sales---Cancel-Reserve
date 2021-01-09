@@ -1,0 +1,19 @@
+{
+  "id": "017ce375-0367-4d91-9137-5f4d538c1eca",
+  "name": "Sales - Cancel Reserve",
+  "publisher": "Infolog",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Sales - Cancel Reserve",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "showMyCode": true,
+  "runtime": "2.0"
+}
